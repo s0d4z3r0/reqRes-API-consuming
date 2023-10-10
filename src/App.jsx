@@ -18,11 +18,13 @@ function App() {
   return (
     <>
       <h2 className="title">ReqRes Social Network</h2>
-      {users.length && users.map((user) => 
-        (<div className="cardsUsers" key={user.id}>
-          <Cards user={user}/>
-        </div>)
-      )}
+      <div className="cardsArea">
+        {users.length && users.map((user) =>
+          (<div className="cardsUsers" key={user.id}>
+            <Cards user={user}/>
+          </div>)
+        )}
+      </div>
     </>
   );
 }
