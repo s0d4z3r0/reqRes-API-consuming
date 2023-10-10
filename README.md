@@ -1,8 +1,7 @@
-# React + Vite
+# **reqRes API consuming**
+## Consumindo a API Reqres
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto **reqRes API consuming** feito em **React + Vite**.
+O projeto consiste em consumir e estilizar a API Reqres.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### [Visualize o projeto reqRes API consuming](https://s0d4z3r0.github.io/reqRes-API-consuming/)
